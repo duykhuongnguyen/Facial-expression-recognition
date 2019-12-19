@@ -30,7 +30,7 @@
   Weights for pretrained model on imagenet dataset might reduce training time.
 
 ## 4. Real time facial expression recognition with OpenCV
-  This part inspired from: https://github.com/omar178/Emotion-recognition
+  This part inspired from: https://github.com/omar178/Emotion-recognition.
   After saving checkpoint of the model I use OpenCV for deploying. Here I have pretrained model ResNet18 after training some epochs. 
   Of course you can you it for another model. Just run:
   
