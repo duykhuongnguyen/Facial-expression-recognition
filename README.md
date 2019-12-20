@@ -25,7 +25,7 @@
   
   This will save the checkpoint with best val_acc in model folder. Load it later by load_weights.
   
-  The best accuracy~68% on test set(Kaggle winner~71%).
+  The best accuracy~68% on test set. Kaggle winner~71%.
   
   Weights for pretrained model on imagenet dataset might reduce training time.
 
