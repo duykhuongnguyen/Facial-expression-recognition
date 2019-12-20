@@ -25,14 +25,14 @@
   
   This will save the checkpoint with best val_acc in model folder. Load it later by load_weights.
   
-  The best accuracy~68% on test set.
+  The best accuracy~68% on test set(Kaggle winner~71%).
   
   Weights for pretrained model on imagenet dataset might reduce training time.
 
 ## 4. Real time facial expression recognition with OpenCV
   This part inspired from: https://github.com/omar178/Emotion-recognition.
   After saving checkpoint of the model I use OpenCV for deploying. Here I have pretrained model ResNet18 after training some epochs. 
-  Of course you can you it for another model. Just run:
+  Of course you can do this for another model. Just run:
   
   ``` python real_time_video.py --model ResNet18 ```
   
