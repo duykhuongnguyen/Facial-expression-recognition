@@ -25,7 +25,7 @@
   
   This will save the checkpoint with best val_acc in model folder. Load it later by load_weights.
   
-  The best accuracy~68% on test set.
+  The best accuracy~70% on test set.
   
   Weights for pretrained model on imagenet dataset might reduce training time.
 
