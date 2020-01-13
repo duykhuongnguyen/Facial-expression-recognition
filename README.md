@@ -27,6 +27,8 @@
   
   The best accuracy~70% on test set.
   
+  Training time ~30s / 1 epochs on Tesla K80 GPU(Google Colab).
+  
   Weights for pretrained model on imagenet dataset might reduce training time.
 
 ## 4. Real time facial expression recognition with OpenCV
