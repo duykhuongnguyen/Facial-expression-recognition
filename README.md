@@ -23,7 +23,7 @@
   
   ``` python train_model.py --model ResNet18 --epochs 100 --lr 0.01 --batch_size 128 ```
   
-  This will save the checkpoint with best accuracy on dev set in model folder. Load it later by load_weights.
+  This will save the checkpoint with best val_acc in model folder. Load it later by load_weights.
   
   The best accuracy~70% on test set.
   
